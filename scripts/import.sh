@@ -12,6 +12,6 @@ rm $3-temp.csv
 
 mv $3.csv ../data/$3-raw.csv
 
-csvjoin -c number ../data/$3-raw.csv ../data/paid/$3-paid.csv > ../data/$3.csv
+csvjoin --left -c number ../data/$3-raw.csv ../data/paid/$3-paid.csv > ../data/$3.csv
 
 rm ../data/$3-raw.csv
