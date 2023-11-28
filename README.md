@@ -20,3 +20,8 @@ Tables are generated using githubCsvTools(https://github.com/gavinr/github-csv-t
 Join developers chat:
 * Discord: [https://discord.com/channels/668903786361651200/669989266478202917](https://discord.com/channels/668903786361651200/669989266478202917)
 * Telegram: [https://t.me/ErgoDevelopers](https://t.me/ErgoDevelopers)
+
+
+# Acknowledgements
+
+Thanks to lorien for labels-strip.py script.
