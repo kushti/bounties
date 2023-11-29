@@ -7,5 +7,5 @@ number,title,labels,payment status
 832,Revise all error messages adopting usability pattern,Bounty - 500 SigUSD,
 820,Implement missing Unit support in compiler,Bounty - 500 SigUSD,
 782,Add isEmpty method to frontend compiler,Bounty - 500 SigUSD,
-741,Remove toFloat & toDouble conversions from numeric types,Bounty - 200 SigUSD,
+741,Remove toFloat & toDouble conversions from numeric types,Bounty - 200 SigUSD,paid
 197,Revise and optimize hashCode for Digest32 and other hashes,Bounty - 200 SigUSD,
