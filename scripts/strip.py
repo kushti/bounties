@@ -12,14 +12,19 @@ def main() -> None:
     reader = csv.reader(fileinput.input(encoding="utf-8"))
     writer = csv.writer(sys.stdout)
     for row in reader:
-        if row[2] == "labels":
+        if row[3] == "labels":
             writer.writerow(row)
         else:
-            labels = json.loads(row[2])
+            assignees = json.loads(row[2])
+            assignees_names = [
+                x["login"] for x in assignees
+            ]
+            row[2] = " ".join(assignees_names)
+            labels = json.loads(row[3])
             bounty_names = [
                 x["name"] for x in labels if RE_BOUNTY_NAME.search(x["name"])
             ]
-            row[2] = " ".join(bounty_names)
+            row[3] = " ".join(bounty_names)
             writer.writerow(row)
 
 
