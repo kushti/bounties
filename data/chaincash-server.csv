@@ -1,3 +1,7 @@
 number,title,assignees,labels,state,payment status
+31,Unlock nodes wallet if locked,,Bounty-50 GORT,open,
+28,Add openapi schema and swagger ui,,Bounty-200 GORT,open,
 26,Implement collaterization algo for collat predicate,ross-weir,Bounty-200 GORT,open,
-5,Add file logging,SethDusek,Bounty-50 GORT,closed,
+25,Add `blacklist` note acceptance predicate,,Bounty-200 GORT,open,
+24,Allow for different types of `whitelist` predicates,,Bounty-200 GORT,open,
+5,Add file logging,SethDusek,Bounty-50 GORT,closed,paid
