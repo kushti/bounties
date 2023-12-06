@@ -4,7 +4,7 @@ token=`cat ../secrets/token.txt`
 
 rm ../data/$3.csv
 
-githubCsvTools -t $token -o $1 -r $2 -f $3-temp.csv -a number,title,assignees,labels
+githubCsvTools -t $token -o $1 -r $2 -f $3-temp.csv -a number,title,assignees,labels,state
 
 csvgrep -c labels -r "B-|Bounty" $3-temp.csv > $3-labels.csv
 

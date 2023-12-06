@@ -1,11 +1,11 @@
-number,title,assignees,labels,payment status
-931,Implement SBoolean.toByte,ross-weir,Bounty - 500 SigUSD,
-928,Add a flag on whether blockchain context is used in ErgoTree,,Bounty - 1000 SigUSD,
-852,Implement ContractTemplate compiler,,Bounty - 1000 SigUSD,
-851,ContractTemplate data structure according to EIP5,,Bounty - 1000 SigUSD,
-846,[v6.0] Accumulate ErgoTree rewriting cost when handling Deserialize operations,,Bounty - 200 SigUSD,
-832,Revise all error messages adopting usability pattern,,Bounty - 500 SigUSD,
-820,Implement missing Unit support in compiler,kettlebell,Bounty - 500 SigUSD,
-782,Add isEmpty method to frontend compiler,,Bounty - 500 SigUSD,
-741,Remove toFloat & toDouble conversions from numeric types,,Bounty - 200 SigUSD,paid
-197,Revise and optimize hashCode for Digest32 and other hashes,,Bounty - 200 SigUSD,
+number,title,assignees,labels,state,payment status
+931,Implement SBoolean.toByte,ross-weir,Bounty - 500 SigUSD,open,
+928,Add a flag on whether blockchain context is used in ErgoTree,,Bounty - 1000 SigUSD,open,
+852,Implement ContractTemplate compiler,,Bounty - 1000 SigUSD,open,
+851,ContractTemplate data structure according to EIP5,,Bounty - 1000 SigUSD,closed,
+846,[v6.0] Accumulate ErgoTree rewriting cost when handling Deserialize operations,,Bounty - 200 SigUSD,open,
+832,Revise all error messages adopting usability pattern,,Bounty - 500 SigUSD,open,
+820,Implement missing Unit support in compiler,kettlebell,Bounty - 500 SigUSD,open,
+782,Add isEmpty method to frontend compiler,,Bounty - 500 SigUSD,closed,
+741,Remove toFloat & toDouble conversions from numeric types,,Bounty - 200 SigUSD,closed,paid
+197,Revise and optimize hashCode for Digest32 and other hashes,,Bounty - 200 SigUSD,open,

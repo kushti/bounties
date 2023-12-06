@@ -1,3 +1,3 @@
-number,title,assignees,labels,payment status
-26,Implement collaterization algo for collat predicate,ross-weir,Bounty-200 GORT,
-5,Add file logging,SethDusek,Bounty-50 GORT,
+number,title,assignees,labels,state,payment status
+26,Implement collaterization algo for collat predicate,ross-weir,Bounty-200 GORT,open,
+5,Add file logging,SethDusek,Bounty-50 GORT,closed,
