@@ -1,6 +1,6 @@
 number,title,assignees,labels,state,payment status
 2064,Post-refactoring documentation,ccellado,B-500 SigUSD,open,
-2051,Add limit and offset parameter to /wallet/boxes/unspent,,B-200 SigUSD,open,
+2051,Add limit and offset parameter to /wallet/boxes/unspent,,B-200 SigUSD,closed,paid
 2047,Limit logs disk usage ,ccellado,B-200 SigUSD,closed,paid
 2039,Bulk endpoint for /blocks/{headerId},ccellado,B-200 SigUSD,closed,paid
 2038,Unspent and Spent Box By Token Id Node Endpoint Request,jellymlg,Bounty - 300 SigUSD,closed,
