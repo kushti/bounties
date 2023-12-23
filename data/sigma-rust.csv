@@ -1,70 +1,70 @@
 number,title,assignees,labels,state,payment status
-734,Allow box min value & size to be calculated without value validation,,Bounty - 100 SigUSD,open,
+734,Allow box min value & size to be calculated without value validation,,Bounty - 100 SigUSD,closed,
 703,Tx verification,SethDusek,Bounty - 200 SigUSD,open,
-583,[200 SigmaUSD] Adapt SPV NiPoPow workflow to swift,kettlebell,,closed,
-581,[500 SigmaUSD] `peer_discovery` REST API has problems on Chrome,,,closed,
-569,[300 SigmaUSD] Example SPV workflow with NiPoPoW,,,closed,
-544,[350 SigmaUSD] Node discovery via node's REST API,,,closed,
-542,[100 SigmaUSD] Wasm and Swift bindings for the arbitrary message signing and verification,,,closed,
-536,[1000 SigmaUSD] PoPowHeader Interlink Batch Merkle Proof verification,,,closed,
-522,[100 SigmaUSD] Run ergo-lib-wasm JS tests in a headless browser on CI,,,closed,
-519,[100 SigmaUSD] Eval for SGLOBAL methods,,,closed,
-515,[350 SigmaUSD] `MerkleProof` verification,,,closed,
-499,[1500 SigmaUSD] NiPoPoW proof verification,,,closed,
-491,[1000 SigUSD] Implement NiPoPoW verification for infix proofs,,,closed,
-490,[100 SigmaUSD] Add NipopowProof type,,,closed,
-489,[100 SigmaUSD] Create PoPowHeader type,,,closed,
-488,[100 SigmaUSD] Move Header type from ergotree-ir to ergo-chain-types crate,,,closed,
-480,[300 SigmaUSD] Integration testing suite for P2P networking,,,closed,
-479,[200 SigmaUSD] Peer management,,,closed,
-477,[100 SigmaUSD] Serialization for ergo-p2p,,,closed,
-474,[50 SigmaUSD] Fix `Downcast` eval tests and convert them to proptest along with `Upcast`,,,closed,
-473,[800 SigmaUSD] Arithmetic operations and polynomial interpolation over Galois fields GF(2^192),,,closed,
-463,[50 SigmaUSD] `BoxSelection::boxes` cannot be empty,,,closed,
-456,[200 SigmaUSD] Implement modulo `%` bin op,,,closed,
-454,[150 SigmaUSD] Fix missing `ContextExtenion` support ,greenhat,,closed,
-453,[150 SigmaUSD] Handle `TransactionContext::boxes_to_spend` order != `TransactionContext::spending_tx::inputs` order (same for data inputs),greenhat,,closed,
-440,[100 SigmaUSD] `LastBlockUtxoRootHash` IR node,,,closed,
-439,[100 SigmaUSD] `avlTree` predefined function for AVL tree creation,,,closed,
-438,[100 SigmaUSD] `treeLookup` predefined function for AVL tree key lookup,,,closed,
-430,[100 SigmaUSD] AvlTree.remove,,,closed,
-429,[100 SigmaUSD] AvlTree.update,,,closed,
-428,[100 SigmaUSD] AvlTree.getMany,,,closed,
-427,[100 SigmaUSD] AvlTree.get,,,closed,
-426,[100 SigmaUSD] AvlTree.contains,,,closed,
-425,[300 SigmaUSD] AvlTree properties,,,closed,
-423,[50 SigmaUSD] Construct `ErgoStateContext` from headers in ergo-lib and Wasm,,,closed,
-422,[150 SigmaUSD] Evaluation for `PreHeader` properties,,,closed,
-421,[300 SigmaUSD] Evaluation for `Header` properties,,,closed,
-420,[150 SigmaUSD] Define `PreHeader` `STypeCompanion` with properties,,,closed,
-416,"[200 SigmaUSD] Use `Option<BoundedVec<1, 255, Token>>` for box tokens",,,closed,
-411,[400 SigmaUSD] `AvlTree.insert` operation,,,closed,
-403,[250 SigmaUSD] `SubstConstants` IR node,,,closed,
-402,[200 SigmaUSD] `Downcast` IR node for numeric types,,,closed,
-401,[100 SigmaUSD] `Context.selfBoxIndex` method,,,closed,
-400,[150 SigmaUSD] `Box.bytesWithoutRef` method's IR node (`ExtractBytesWithNoRef`),,,closed,
-367,[500 SigmaUSD] Distributed signatures support,,,closed,
-360,"[250 SigmaUSD] Implement `Option.map`, `filter` methods",,,closed,
-359,[150 SigmaUSD] Implement `Coll.updateMany` method,,,closed,
-358,[150 SigmaUSD] Implement `Coll.updated` method,,,closed,
-357,[150 SigmaUSD] Implement `Coll.patch` method,,,closed,
-356,[150 SigmaUSD] Implement `XorOf` IR node (XOR for collection of booleans),,,closed,
-355,[150 SigmaUSD] Implement unary `~` (bit inversion) op,,,closed,
-337,[150 SigmaUSD] Implement `Address::Pay2Sh` (Pay-to-Script-Hash),,,closed,
-333,[200 SigmaUSD] Implement logical XOR `^` op ,,,closed,
-332,[200 SigmaUSD] Implement `groupGenerator` global var,,,closed,
-331,[150 SigmaUSD] Implement `GroupElement.negate` method,,,closed,
-330,[150 SigmaUSD] Implement `GroupElement.getEncoded` method,,,closed,
-329,[250 SigmaUSD] Implement `Coll.zip` method,,,closed,
-314,[150 SigmaUSD] Implement `Coll.indices` method,,,closed,
-301,[200 SigmaUSD] Implement `Append` op for collection,,,closed,
-300,[200 SigmaUSD] Implement `Slice` op for collection,,,closed,
-299,[100 SigmaUSD] Implement `CalcSha256` op for byte arrays.,,,closed,
-298,[150 SigmaUSD] Implement `MultiplyGroup` op for `GroupElement`.,,,closed,
-297,[150 SigmaUSD] Implement `Exponentiate` op for `GroupElement`.,,,closed,
-296,[100 SigmaUSD] Implement byte-wise `XOR` op (`|`) for byte arrays,,,closed,
-295,[250 SigmaUSD] Add 256-bit signed integer type and use it for `Value::BigInt`,,,closed,
-292,[50 SigmaUSD] Unify serialization for two-argument ops,,,closed,
-265,"[500 SigmaUSD] Ban (via clippy) todo!, panic!, unimplemented! in `ergo-lib` crate",,,closed,
-248,[300 SigmaUSD] Sigma protocol implementation for AtLeast,greenhat,,closed,
-47,[5000 SigmaUSD] C + Swift(iOS) bindings ,,,closed,
+583,[200 SigmaUSD] Adapt SPV NiPoPow workflow to swift,kettlebell,,closed,paid
+581,[500 SigmaUSD] `peer_discovery` REST API has problems on Chrome,,,closed,paid
+569,[300 SigmaUSD] Example SPV workflow with NiPoPoW,,,closed,paid
+544,[350 SigmaUSD] Node discovery via node's REST API,,,closed,paid
+542,[100 SigmaUSD] Wasm and Swift bindings for the arbitrary message signing and verification,,,closed,paid
+536,[1000 SigmaUSD] PoPowHeader Interlink Batch Merkle Proof verification,,,closed,paid
+522,[100 SigmaUSD] Run ergo-lib-wasm JS tests in a headless browser on CI,,,closed,paid
+519,[100 SigmaUSD] Eval for SGLOBAL methods,,,closed,paid
+515,[350 SigmaUSD] `MerkleProof` verification,,,closed,paid
+499,[1500 SigmaUSD] NiPoPoW proof verification,,,closed,paid
+491,[1000 SigUSD] Implement NiPoPoW verification for infix proofs,,,closed,paid
+490,[100 SigmaUSD] Add NipopowProof type,,,closed,paid
+489,[100 SigmaUSD] Create PoPowHeader type,,,closed,paid
+488,[100 SigmaUSD] Move Header type from ergotree-ir to ergo-chain-types crate,,,closed,paid
+480,[300 SigmaUSD] Integration testing suite for P2P networking,,,closed,paid
+479,[200 SigmaUSD] Peer management,,,closed,paid
+477,[100 SigmaUSD] Serialization for ergo-p2p,,,closed,paid
+474,[50 SigmaUSD] Fix `Downcast` eval tests and convert them to proptest along with `Upcast`,,,closed,paid
+473,[800 SigmaUSD] Arithmetic operations and polynomial interpolation over Galois fields GF(2^192),,,closed,paid
+463,[50 SigmaUSD] `BoxSelection::boxes` cannot be empty,,,closed,paid
+456,[200 SigmaUSD] Implement modulo `%` bin op,,,closed,paid
+454,[150 SigmaUSD] Fix missing `ContextExtenion` support ,greenhat,,closed,paid
+453,[150 SigmaUSD] Handle `TransactionContext::boxes_to_spend` order != `TransactionContext::spending_tx::inputs` order (same for data inputs),greenhat,,closed,paid
+440,[100 SigmaUSD] `LastBlockUtxoRootHash` IR node,,,closed,paid
+439,[100 SigmaUSD] `avlTree` predefined function for AVL tree creation,,,closed,paid
+438,[100 SigmaUSD] `treeLookup` predefined function for AVL tree key lookup,,,closed,paid
+430,[100 SigmaUSD] AvlTree.remove,,,closed,paid
+429,[100 SigmaUSD] AvlTree.update,,,closed,paid
+428,[100 SigmaUSD] AvlTree.getMany,,,closed,paid
+427,[100 SigmaUSD] AvlTree.get,,,closed,paid
+426,[100 SigmaUSD] AvlTree.contains,,,closed,paid
+425,[300 SigmaUSD] AvlTree properties,,,closed,paid
+423,[50 SigmaUSD] Construct `ErgoStateContext` from headers in ergo-lib and Wasm,,,closed,paid
+422,[150 SigmaUSD] Evaluation for `PreHeader` properties,,,closed,paid
+421,[300 SigmaUSD] Evaluation for `Header` properties,,,closed,paid
+420,[150 SigmaUSD] Define `PreHeader` `STypeCompanion` with properties,,,closed,paid
+416,"[200 SigmaUSD] Use `Option<BoundedVec<1, 255, Token>>` for box tokens",,,closed,paid
+411,[400 SigmaUSD] `AvlTree.insert` operation,,,closed,paid
+403,[250 SigmaUSD] `SubstConstants` IR node,,,closed,paid
+402,[200 SigmaUSD] `Downcast` IR node for numeric types,,,closed,paid
+401,[100 SigmaUSD] `Context.selfBoxIndex` method,,,closed,paid
+400,[150 SigmaUSD] `Box.bytesWithoutRef` method's IR node (`ExtractBytesWithNoRef`),,,closed,paid
+367,[500 SigmaUSD] Distributed signatures support,,,closed,paid
+360,"[250 SigmaUSD] Implement `Option.map`, `filter` methods",,,closed,paid
+359,[150 SigmaUSD] Implement `Coll.updateMany` method,,,closed,paid
+358,[150 SigmaUSD] Implement `Coll.updated` method,,,closed,paid
+357,[150 SigmaUSD] Implement `Coll.patch` method,,,closed,paid
+356,[150 SigmaUSD] Implement `XorOf` IR node (XOR for collection of booleans),,,closed,paid
+355,[150 SigmaUSD] Implement unary `~` (bit inversion) op,,,closed,paid
+337,[150 SigmaUSD] Implement `Address::Pay2Sh` (Pay-to-Script-Hash),,,closed,paid
+333,[200 SigmaUSD] Implement logical XOR `^` op ,,,closed,paid
+332,[200 SigmaUSD] Implement `groupGenerator` global var,,,closed,paid
+331,[150 SigmaUSD] Implement `GroupElement.negate` method,,,closed,paid
+330,[150 SigmaUSD] Implement `GroupElement.getEncoded` method,,,closed,paid
+329,[250 SigmaUSD] Implement `Coll.zip` method,,,closed,paid
+314,[150 SigmaUSD] Implement `Coll.indices` method,,,closed,paid
+301,[200 SigmaUSD] Implement `Append` op for collection,,,closed,paid
+300,[200 SigmaUSD] Implement `Slice` op for collection,,,closed,paid
+299,[100 SigmaUSD] Implement `CalcSha256` op for byte arrays.,,,closed,paid
+298,[150 SigmaUSD] Implement `MultiplyGroup` op for `GroupElement`.,,,closed,paid
+297,[150 SigmaUSD] Implement `Exponentiate` op for `GroupElement`.,,,closed,paid
+296,[100 SigmaUSD] Implement byte-wise `XOR` op (`|`) for byte arrays,,,closed,paid
+295,[250 SigmaUSD] Add 256-bit signed integer type and use it for `Value::BigInt`,,,closed,paid
+292,[50 SigmaUSD] Unify serialization for two-argument ops,,,closed,paid
+265,"[500 SigmaUSD] Ban (via clippy) todo!, panic!, unimplemented! in `ergo-lib` crate",,,closed,paid
+248,[300 SigmaUSD] Sigma protocol implementation for AtLeast,greenhat,,closed,paid
+47,[5000 SigmaUSD] C + Swift(iOS) bindings ,,,closed,paid
