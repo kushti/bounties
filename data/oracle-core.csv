@@ -1,0 +1,4 @@
+number,title,assignees,labels,state,payment status
+323,Unlock node wallet if locked,,Bounty-200 GORT,open,
+319,Add scan start blockheight parameter in config,,Bounty-200 GORT,closed,paid
+311,Switch docker push to be triggered on new release,reqlez,Bounty-100 GORT,closed,
