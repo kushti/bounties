@@ -1,5 +1,5 @@
 number,title,assignees,labels,state,payment status
-734,Allow box min value & size to be calculated without value validation,,Bounty - 100 SigUSD,closed,
+734,Allow box min value & size to be calculated without value validation,,Bounty - 100 SigUSD,closed,paid
 703,Tx verification,SethDusek,Bounty - 200 SigUSD,open,
 583,[200 SigmaUSD] Adapt SPV NiPoPow workflow to swift,kettlebell,,closed,paid
 581,[500 SigmaUSD] `peer_discovery` REST API has problems on Chrome,,,closed,paid

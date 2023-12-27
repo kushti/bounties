@@ -1,5 +1,6 @@
 number,title,assignees,labels,state,payment status
 41,Add spend note transaction builder,ross-weir,Bounty-200 GORT,open,
+40,Add top-up reserve transaction builder,ross-weir,Bounty-200 GORT,open,
 31,Unlock nodes wallet if locked,,Bounty-50 GORT,open,
 28,Add openapi schema and swagger ui,SethDusek,Bounty-200 GORT,open,
 26,Implement collaterization algo for collat predicate,ross-weir,Bounty-200 GORT,closed,paid
