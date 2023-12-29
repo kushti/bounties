@@ -1,5 +1,5 @@
 number,title,assignees,labels,state,payment status
-2089,Post-refactoring cross-compilation,ccellado,Bounty - 300 SigUSD,open,
+2089,Post-refactoring cross-compilation,ccellado,Bounty - 300 SigUSD,closed,paid
 2083,Release script,,B-100 SigUSD,closed,paid
 2064,Post-refactoring documentation,ccellado,B-500 SigUSD,open,
 2051,Add limit and offset parameter to /wallet/boxes/unspent,,B-200 SigUSD,closed,paid
@@ -128,7 +128,7 @@ number,title,assignees,labels,state,payment status
 1283,Token issuance incorrectly uses token id of an earlier issued token,,B-100 SigUSD,closed,
 1256,Wallet rescan from a given height rather than from beginning,,B-500 SigUSD,closed,
 1228,Eliminate offchainRegistry,pragmaxim,B-500 SigUSD,open,
-1194,Release binaries for Windows and MacOS,ccellado,B-2000 SigUSD,open,
+1194,Release binaries for Windows and MacOS,ccellado,B-2000 SigUSD,closed,paid
 1173,Unify recursive deletion of folder ,,B-200 SigUSD,closed,
 1159,Light node with pruning can't catch after long shutdown ,kushti,B-500 SigUSD,open,
 1156,Take into account dataInputs during mempool updateFamily,,B-200 Erg,open,
