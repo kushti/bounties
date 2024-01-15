@@ -1,4 +1,5 @@
 number,title,assignees,labels,state,payment status
+42,Use sigma-rust for wallet functionality,,Bounty-500 GORT,open,
 41,Add spend note transaction builder,ross-weir,Bounty-200 GORT,open,
 40,Add top-up reserve transaction builder,ross-weir,Bounty-200 GORT,open,
 31,Unlock nodes wallet if locked,,Bounty-50 GORT,open,

@@ -1,4 +1,6 @@
 number,title,assignees,labels,state,payment status
+2093,[API Request] /blockchain/box/unspent/byAddress Unconfirmed Query Parameter,,B-200 SigUSD,open,
+2092,"Label transactions with inputs not using blockchain context, simplify their revalidation in mempool",ccellado,B-500 SigUSD,open,
 2089,Post-refactoring cross-compilation,ccellado,Bounty - 300 SigUSD,closed,paid
 2083,Release script,,B-100 SigUSD,closed,paid
 2064,Post-refactoring documentation,ccellado,B-500 SigUSD,open,
