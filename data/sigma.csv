@@ -1,7 +1,8 @@
 number,title,assignees,labels,state,payment status
 947,Add cross-compilation to Scala3,,Bounty - 500 SigUSD,open,
 931,Implement SBoolean.toByte,ross-weir,Bounty - 500 SigUSD,open,
-928,Add a flag on whether blockchain context is used in ErgoTree,,Bounty - 1000 SigUSD,open,paid
+928,Add a flag on whether blockchain context is used in ErgoTree,,Bounty - 1000 SigUSD,closed,paid
+915,Inferred type is not checked agains ascription,,Bounty - 500 SigUSD,open,
 852,Implement ContractTemplate compiler,,Bounty - 1000 SigUSD,open,paid
 851,ContractTemplate data structure according to EIP5,,Bounty - 1000 SigUSD,closed,paid
 847,Serialize SFunc in TypeSerializer,,Bounty - 500 SigUSD,open,
@@ -10,5 +11,6 @@ number,title,assignees,labels,state,payment status
 820,Implement missing Unit support in compiler,kettlebell,Bounty - 500 SigUSD,open,
 782,Add isEmpty method to frontend compiler,,Bounty - 500 SigUSD,closed,paid
 741,Remove toFloat & toDouble conversions from numeric types,,Bounty - 200 SigUSD,closed,paid
+616,Support n-ary functions in ErgoScript (front-end only),,Bounty - 500 SigUSD,open,
 574,Declared variable is missing in the environment (BigInt type),,Bounty - 200 SigUSD,open,
 197,Revise and optimize hashCode for Digest32 and other hashes,,Bounty - 200 SigUSD,open,
