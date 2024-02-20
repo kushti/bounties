@@ -1,5 +1,8 @@
 number,title,assignees,labels,state,payment status
+2114,ErgoStateContextSpec is unstable,,B-500 SigUSD,open,
+2105,Refactor Message class,ccellado,B-200 SigUSD,open,
 2096,Migrate to RocksDB,jellymlg,B-1000 SigUSD,open,
+2095,ErgoTransactionSpec is unstable,,B-500 SigUSD,open,
 2093,[API Request] /blockchain/box/unspent/byAddress Unconfirmed Query Parameter,ApexTheory,B-200 SigUSD,open,
 2092,"Label transactions with inputs not using blockchain context, simplify their revalidation in mempool",ccellado,B-500 SigUSD,open,
 2089,Post-refactoring cross-compilation,ccellado,Bounty - 300 SigUSD,closed,paid
@@ -121,7 +124,7 @@ number,title,assignees,labels,state,payment status
 1407,Show warning on or disable wallet import if pruning is enabled,pragmaxim,B-500 SigUSD,closed,paid
 1401,Determining whether the node is still syncing and calculating sync progress,,B-500 SigUSD,closed,
 1392,Sign a custom message [Feature request],,B-1000 SigUSD,open,
-1387,proofsForTransactions in UtxoStateReader can modify the underlying tree,knizhnik,B-2000 SigUSD,open,
+1387,proofsForTransactions in UtxoStateReader can modify the underlying tree,knizhnik,B-2000 SigUSD,closed,paid
 1384,Add proof that interlink vector corresponds to its header,ApexTheory,B-1000 SigUSD,open,
 1366,Bootstrapping via UTXO set snapshot,,B-5000 SigUSD,closed,
 1365,NiPoPoW powered bootstrapping ,,B-5000 SigUSD,open,
@@ -150,7 +153,7 @@ number,title,assignees,labels,state,payment status
 1031,Sometimes UtxoStateSpecification tests failing with improper interlinks provided,knizhnik,B-150 Erg,closed,paid
 1029,Separate Box selection algorithms from ErgoBox and TrackedBox,,B-150 Erg,closed,paid
 1026,Check how node is working under Vagrant,,B-100 Erg,closed,paid
-1023,"Fix unstable ""concurrent applyModifier() and proofsForTransactions()"" test",,B-500 SigUSD,open,
+1023,"Fix unstable ""concurrent applyModifier() and proofsForTransactions()"" test",,B-500 SigUSD,closed,
 1018,Use SecretString for passwords and other secrets instead of String,ccellado,B-200 SigUSD,closed,paid
 1005,Wrap primitive types in communication between API and the core,,B-100 Erg,open,
 1002,Actual type of BlockHeader model difficulty field in the api,,B-50 Erg,closed,paid
