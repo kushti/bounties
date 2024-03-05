@@ -1,13 +1,15 @@
 number,title,assignees,labels,state,payment status
+2133,ExtraIndexer stuck on rollback? ,jellymlg,B-100 SigUSD,open,
 2114,ErgoStateContextSpec is unstable,,B-500 SigUSD,open,
-2105,Refactor Message class,ccellado,B-200 SigUSD,open,
+2105,Refactor Message class,ccellado,B-200 SigUSD,closed,
 2096,Migrate to RocksDB,jellymlg,B-1000 SigUSD,open,
 2095,ErgoTransactionSpec is unstable,,B-500 SigUSD,open,
 2093,[API Request] /blockchain/box/unspent/byAddress Unconfirmed Query Parameter,ApexTheory,B-200 SigUSD,open,
 2092,"Label transactions with inputs not using blockchain context, simplify their revalidation in mempool",ccellado,B-500 SigUSD,open,
 2089,Post-refactoring cross-compilation,ccellado,Bounty - 300 SigUSD,closed,paid
 2083,Release script,,B-100 SigUSD,closed,paid
-2064,Post-refactoring documentation,ccellado,B-500 SigUSD,open,
+2065,Post-refactoring tests,ccellado,B-500 SigUSD,closed,
+2064,Post-refactoring documentation,ccellado,B-500 SigUSD,closed,
 2051,Add limit and offset parameter to /wallet/boxes/unspent,,B-200 SigUSD,closed,paid
 2047,Limit logs disk usage ,ccellado,B-200 SigUSD,closed,paid
 2039,Bulk endpoint for /blocks/{headerId},ccellado,B-200 SigUSD,closed,paid
@@ -40,7 +42,7 @@ number,title,assignees,labels,state,payment status
 1854,Additional mempool API endpoints,pragmaxim,B-2000 SigUSD,closed,paid
 1848,SIGTERM should be handled as remote shutdown,,B-500 SigUSD,closed,
 1824,OOM error leads to node being stuck,pragmaxim,B-500 SigUSD,closed,paid
-1811,Make a config setting for pool sorting,ApexTheory,B-500 SigUSD,open,
+1811,Make a config setting for pool sorting,ApexTheory,B-500 SigUSD,closed,
 1806,Fixed socket address parsing for IPv6,,Bounty - 300 SigUSD,closed,
 1802,I1801 modifier error should contain modifier id and type,,B-500 SigUSD,closed,
 1800,I1799 peer database disregards rest api url feature,,Bounty - 300 SigUSD,closed,
@@ -163,6 +165,7 @@ number,title,assignees,labels,state,payment status
 962,Save version of the node in the Block Extensions section,,B-200 Erg,open,
 940,[API] Specify secrets while creating transaction,,B-200 Erg,closed,paid
 938,[API] Specify context variables in creating transaction,,B-200 Erg,open,
+903,"API: /wallet/unlock, error message in response.",ccellado,B-100 SigUSD,open,
 894,Node can not restore after long network degradation (restart helps),kushti,B-100 Erg,closed,paid
 885,API method to get a box along with a membership proof from UTXO,,B-100 Erg,closed,paid
 879,Implement /wallet/boxes/uncertain to get uncertain boxes,kushti,B-50 Erg,closed,paid
@@ -170,3 +173,4 @@ number,title,assignees,labels,state,payment status
 872,Inefficient difficulty check,knizhnik,B-500 SigUSD,closed,paid
 856,Make replace-compact-collect box selector configurable,kushti,B-100 Erg,closed,paid
 845,Make Builds Reproducible,knizhnik,B-50 Erg,closed,paid
+653,Fix known peers propagation test,ccellado,B-500 SigUSD,open,
