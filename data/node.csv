@@ -1,14 +1,15 @@
 number,title,assignees,labels,state,payment status
+2134,ergo-core ci improvements,ccellado,B-100 SigUSD,open,paid
 2133,ExtraIndexer stuck on rollback? ,jellymlg,B-100 SigUSD,open,
 2114,ErgoStateContextSpec is unstable,,B-500 SigUSD,open,
-2105,Refactor Message class,ccellado,B-200 SigUSD,closed,
+2105,Refactor Message class,ccellado,B-200 SigUSD,closed,paid
 2096,Migrate to RocksDB,jellymlg,B-1000 SigUSD,open,
 2095,ErgoTransactionSpec is unstable,,B-500 SigUSD,open,
 2093,[API Request] /blockchain/box/unspent/byAddress Unconfirmed Query Parameter,ApexTheory,B-200 SigUSD,open,
 2092,"Label transactions with inputs not using blockchain context, simplify their revalidation in mempool",ccellado,B-500 SigUSD,open,
 2089,Post-refactoring cross-compilation,ccellado,Bounty - 300 SigUSD,closed,paid
 2083,Release script,,B-100 SigUSD,closed,paid
-2065,Post-refactoring tests,ccellado,B-500 SigUSD,closed,
+2065,Post-refactoring tests,ccellado,B-500 SigUSD,closed,paid
 2064,Post-refactoring documentation,ccellado,B-500 SigUSD,closed,
 2051,Add limit and offset parameter to /wallet/boxes/unspent,,B-200 SigUSD,closed,paid
 2047,Limit logs disk usage ,ccellado,B-200 SigUSD,closed,paid
@@ -99,7 +100,7 @@ number,title,assignees,labels,state,payment status
 1574,fixing logback oversized logfile issue,,B-500 SigUSD,closed,
 1568,Check for node being stuck,pragmaxim,B-500 SigUSD,closed,paid
 1565,Mempool syncing issues,pragmaxim,B-1000 SigUSD,closed,paid
-1564,Check and fix failing integration tests,ccellado,B-1000 SigUSD,open,
+1564,Check and fix failing integration tests,ccellado,B-1000 SigUSD,open,paid
 1558,non-deterministic test failures due to `Random` in generators,pragmaxim,B-1000 SigUSD,closed,paid
 1556,Extract logic from CleanupWorker actor and test it ,pragmaxim,B-500 SigUSD,open,
 1551,Transactions returned from memory pool are Stream collection,pragmaxim,B-500 SigUSD,open,
@@ -138,6 +139,7 @@ number,title,assignees,labels,state,payment status
 1228,Eliminate offchainRegistry,pragmaxim,B-500 SigUSD,open,
 1194,Release binaries for Windows and MacOS,ccellado,B-2000 SigUSD,closed,paid
 1173,Unify recursive deletion of folder ,,B-200 SigUSD,closed,
+1160,Fix DeepRollBackSpec ,ccellado,B-200 SigUSD,open,paid
 1159,Light node with pruning can't catch after long shutdown ,kushti,B-500 SigUSD,open,
 1156,Take into account dataInputs during mempool updateFamily,,B-200 Erg,open,
 1154,Unconfirmed wallet transactions during node restart,,B-1000 SigUSD,open,
@@ -165,7 +167,7 @@ number,title,assignees,labels,state,payment status
 962,Save version of the node in the Block Extensions section,,B-200 Erg,open,
 940,[API] Specify secrets while creating transaction,,B-200 Erg,closed,paid
 938,[API] Specify context variables in creating transaction,,B-200 Erg,open,
-903,"API: /wallet/unlock, error message in response.",ccellado,B-100 SigUSD,open,
+903,"API: /wallet/unlock, error message in response.",ccellado,B-100 SigUSD,open,paid
 894,Node can not restore after long network degradation (restart helps),kushti,B-100 Erg,closed,paid
 885,API method to get a box along with a membership proof from UTXO,,B-100 Erg,closed,paid
 879,Implement /wallet/boxes/uncertain to get uncertain boxes,kushti,B-50 Erg,closed,paid
@@ -173,4 +175,4 @@ number,title,assignees,labels,state,payment status
 872,Inefficient difficulty check,knizhnik,B-500 SigUSD,closed,paid
 856,Make replace-compact-collect box selector configurable,kushti,B-100 Erg,closed,paid
 845,Make Builds Reproducible,knizhnik,B-50 Erg,closed,paid
-653,Fix known peers propagation test,ccellado,B-500 SigUSD,open,
+653,Fix known peers propagation test,ccellado,B-500 SigUSD,open,paid
