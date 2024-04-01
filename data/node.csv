@@ -1,4 +1,5 @@
 number,title,assignees,labels,state,payment status
+2141,ExtraIndexer tests,,B-200 SigUSD,open,
 2134,ergo-core ci improvements,ccellado,B-100 SigUSD,open,paid
 2133,ExtraIndexer stuck on rollback? ,jellymlg,B-100 SigUSD,open,
 2114,ErgoStateContextSpec is unstable,,B-500 SigUSD,open,
@@ -31,7 +32,7 @@ number,title,assignees,labels,state,payment status
 1913,Lower log levels than INFO are working for log file but not for stdout,ccellado,B-200 SigUSD,closed,paid
 1909,Log API queries (@DEBUG level),pragmaxim,B-200 SigUSD,open,
 1905,/wallet/payment/send is trying to spend custom scan boxes,,B-500 SigUSD,open,
-1900,Improper interpretation for big token amounts,pragmaxim,B-1000 SigUSD,open,
+1900,Improper interpretation for big token amounts,pragmaxim,B-1000 SigUSD,closed,paid
 1894,i1893 do not erase password before Unlock,,B-200 SigUSD,closed,
 1885,Timeout on /wallet/payment/send ,pragmaxim,B-500 SigUSD,open,
 1884,Fee estimation APIs getExpectedWaitTime/getRecommendedFee return invalid values,,B-500 SigUSD,open,
