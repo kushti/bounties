@@ -1,5 +1,5 @@
 number,title,assignees,labels,state,payment status
-327,Fix issues with buyback offchain ,,Bounty-200 GORT,open,
+327,Fix issues with buyback offchain ,,Bounty-200 GORT,closed,paid
 323,Unlock node wallet if locked,,Bounty-200 GORT,closed,paid
 319,Add scan start blockheight parameter in config,,Bounty-200 GORT,closed,paid
 316,Add claimable reward token metrics to the Prometheus metrics endpoint,greenhat,Bounty-200 GORT,closed,paid

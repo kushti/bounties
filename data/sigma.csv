@@ -1,5 +1,5 @@
 number,title,assignees,labels,state,payment status
-955, Update flatMap documentation and remove unused code towards post-JIT semantics,,Bounty - 100 SigUSD,open,
+955, Update flatMap documentation and remove unused code towards post-JIT semantics,,Bounty - 100 SigUSD,open,paid
 947,Add cross-compilation to Scala3,,Bounty - 500 SigUSD,open,
 931,Implement SBoolean.toByte,ross-weir,Bounty - 500 SigUSD,open,
 928,Add a flag on whether blockchain context is used in ErgoTree,,Bounty - 1000 SigUSD,closed,paid
