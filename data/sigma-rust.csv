@@ -1,6 +1,11 @@
 number,title,assignees,labels,state,payment status
+748,Storage Rent,,Bounty - 100 SigUSD,open,
+744,Add missing functions for address and implement parameters from json for c-bindings ,,Bounty - 100 SigUSD,closed,paid
+741,"Add missing functions/implementations of ExtSecretKey, ExtPubKey and DerivationPath in c-bindings",Alesfatalis,Bounty - 100 SigUSD,closed,paid
+739,Criterion Benchmarks ,bachthegenius,Bounty - 200 SigUSD,open,
+738,Reuse make_context in signing/validation,SethDusek,Bounty - 100 SigUSD,open,
 734,Allow box min value & size to be calculated without value validation,,Bounty - 100 SigUSD,closed,paid
-703,Tx verification,SethDusek,Bounty - 200 SigUSD,open,
+703,Tx verification,SethDusek,Bounty - 200 SigUSD,closed,
 583,[200 SigmaUSD] Adapt SPV NiPoPow workflow to swift,kettlebell,,closed,paid
 581,[500 SigmaUSD] `peer_discovery` REST API has problems on Chrome,,,closed,paid
 569,[300 SigmaUSD] Example SPV workflow with NiPoPoW,,,closed,paid
